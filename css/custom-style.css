@@ -142,7 +142,8 @@ i.box-circle-solid{
 	z-index: -1;
 }
 .bg-right{
-	background:url("../img/sec-bg-01.jpg");
+	/*background:url("../img/sec-bg-01.jpg");*/
+	background-color: #1E0B0B;
 	background-repeat: no-repeat;
 	background-position: top right;
 }
