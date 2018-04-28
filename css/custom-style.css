@@ -148,7 +148,8 @@ i.box-circle-solid{
 	background-position: top right;
 }
 .sec-bg-02{
-	background:url("../img/sec-bg-02.jpg");
+	/*background:url("../img/sec-bg-02.jpg");*/
+    background-color: #BDBDBD;
 	background-repeat: no-repeat;
 	background-position: top left;	
 	background-size: cover;
@@ -345,10 +346,10 @@ i.box-circle-solid{
 }
 
 .info-section .service-block-bg{
-	background-color: rgba(180,127,65,0.4);
+	background-color: #541111;
 }
 .info-section .service-block-bg:hover{
-	background-color: rgba(180,127,65,1);
+	background-color: #421E1E;
 }
 
 .info-section h3{
@@ -481,7 +482,6 @@ i.box-circle-solid{
 	align-items: center;
 }
 .copy-content{
-	float: left;
 	width:100%;
 }
 .copy-content li i{
@@ -509,7 +509,7 @@ i.box-circle-solid{
 	text-transform: capitalize;
 }
 .member-box{
-  width:100%
+  width:100%;
   float:left;
   position:relative;
   overflow:hidden
