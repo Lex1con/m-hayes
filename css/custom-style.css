@@ -35,12 +35,29 @@ h6{
 .text-primary{
 	color: #B47F41!important;
 }
+
+a{
+	color: white;
+	text-decoration: none;
+}
+
+a:hover{
+	color: #916634!important;
+	text-decoration: none;
+}
+
 a.text-primary{
 	color: #B47F41;
 }
+
+a.text-primary:link{
+	color: white;
+	text-decoration: none;
+}
+
 a.text-primary:hover{
 	color: #916634!important;
-	text-decoration: none;
+	text-decoration: wavy;
 }
 .btn{
 	font-family: 'Montserrat', sans-serif;
