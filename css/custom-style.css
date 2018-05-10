@@ -166,13 +166,13 @@ i.box-circle-solid{
 }
 .sec-bg-02{
 	/*background:url("../img/sec-bg-02.jpg");*/
-    background-color: #BDBDBD;
+    background-color: #16181b;
 	background-repeat: no-repeat;
 	background-position: top left;	
 	background-size: cover;
 }
 .sec-bg-03{
-	background:url("../img/sec-bg-03.jpg");
+	background:url("../img/backgrounds/red-stripe-background.jpg");
 	background-repeat: no-repeat;
 	background-position: top left;	
 	background-size: cover;
@@ -304,7 +304,7 @@ i.box-circle-solid{
 	height: 60%;
 }
 .intro-bg{
-	background:url("../img/intro-bg-01.jpg");
+	background:url("../img/backgrounds/red-stripe-background.jpg");
 	background-repeat:no-repeat;
 	background-position: center center;
 	background-size:cover;
@@ -506,6 +506,10 @@ i.box-circle-solid{
 	width:30px;
 	margin-top:5px;
 	color: #5CB85C;
+}
+
+.copy-content p{
+	color: white;
 }
 
 /* ========== Team Section ========== */
