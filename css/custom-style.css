@@ -260,6 +260,11 @@ i.box-circle-solid{
 	-webkit-transition: 0.5s ease-in;
 	-moz-transition: 0.5s ease-in;
 }
+/*@media only screen and (min-width: 600px)  {*/
+	/*.top-nav li a.nav-link:hover, .top-nav .nav-item.active a.nav-link{*/
+		/*font-size: 32px*/
+	/*}*/
+/*}*/
 .top-nav .navbar-brand{
 	font-size: 28px;
 	color: #fff;
@@ -828,6 +833,50 @@ ul.social-box li {
 	}
 	.intro .intro-box .list-item{
 		width: 85%;
+	}
+	.top-nav .navbar-brand{
+		font-size: 40px;
+		color: #fff;
+		font-family: 'Montserrat', sans-serif;
+	}
+	.top-nav .navbar-nav li .nav-link {
+		color: #fff;
+		font-size: 30px;
+		padding:3px 13px;
+		margin:6px 5px 0;
+		font-weight: 400;
+		text-transform: uppercase;
+		transition: 0.2s ease-in;
+		-webkit-transition: 0.2s ease-in;
+		-moz-transition: 0.2s ease-in;
+	}
+	.info-section p {
+		font-size: 2rem;
+		line-height: 2.3rem;
+	}
+	.info-section{
+		float: left;
+		width:100%;
+		padding:5rem 0;
+		position: relative;
+		z-index: 1;
+	}
+	.info-section h2{
+		font-weight: 700;
+		font-size: 4rem;
+	}
+	.info-section .price-count{
+		font-size: 2.5rem;
+	}
+	.info-section .head-sec{
+		float: left;
+		width:100%;
+	}
+	.info-section h3{
+		font-size: 2.4rem;
+	}
+	.info-section .service-block i img{
+		width:100px;
 	}
 	.content-half ul li i{
 		font-size: 20px;
